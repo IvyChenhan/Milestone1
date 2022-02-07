@@ -9,6 +9,8 @@ public class AddCourseActivity extends AppCompatActivity {
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
+        //test
+        //test2
         setContentView(R.layout.activity_add_course);
     }
 }
