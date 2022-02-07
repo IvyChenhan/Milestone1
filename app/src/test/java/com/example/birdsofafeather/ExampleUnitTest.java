@@ -17,6 +17,6 @@ public class ExampleUnitTest {
 
     @Test
     public void testing_Github_Actions() {
-        assertEquals(1, 2);
+        assertEquals(2, 2);
     }
 }
