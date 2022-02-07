@@ -1,4 +1,4 @@
-package edu.ucsd.cse110.lab5_nearby;
+package com.example.birdsofafeather;
 
 
 import android.util.Log;
